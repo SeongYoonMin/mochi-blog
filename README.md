@@ -8,7 +8,7 @@ Server State : tanstack/react-query<br/>
 Client State : Zustand<br/>
 CSS: tailwindcss, class-variance-authority<br/>
 UI Library: shadcn/ui<br/>
-DB: Supabase(progreSQL)<br/>
+DB: Supabase(postgreSQL)<br/>
 ORM: prisma<br/>
 
 ## 스킬 선택 이유
